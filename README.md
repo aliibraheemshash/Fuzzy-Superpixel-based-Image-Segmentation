@@ -20,8 +20,11 @@ This work proposes a novel image segmentation framework that integrates fuzzy C-
 
 ## 🔧 Tools & Libraries
 
-- Python, NumPy, SciPy, OpenCV, scikit-image
-- Matplotlib, PyWavelets, NetworkX
+- Python
+- NumPy, SciPy
+- OpenCV, scikit-image, PyWavelets
+- PyTorch
+- Matplotlib
 
 ## 📂 Coming Soon
 
